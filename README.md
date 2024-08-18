@@ -4,7 +4,7 @@ This should be you package description and what it does.
 
 ## Getting Started (Delete This Section)
 
-Clone this boilerplate repository then run `./init.sh` shell script.
+Clone this boilerplate repository then run `./init.sh` bash script.
 
 ```bash
 cd php-package-template && ./init.sh <package-name>
